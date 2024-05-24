@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap");
+body {
+  background-color: rgb(48, 48, 48);
+  font-family: "Josefin Sans", sans-serif;
+  background-image: url(https://hips.hearstapps.com/hmg-prod/images/library-design-ideas-ssa-029-albion-barn-vil-3694d-1572541085.jpg?crop=1xw:0.5656108597285068xh;center,top&resize=1200:*);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  font-weight: bolder;
+  color: rgb(20, 16, 24);
+
+  overflow: hidden;
+  object-fit: cover;
+}
+.gradient-bg {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#dd0a73, #a50282);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradient-bg2 {
+  font-weight: bolder;
+  font-size: 35px;
+  background: rgb(12, 20, 126);
+  font-weight: bolder;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
